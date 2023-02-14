@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/BigDecimal-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/quick_sort/pom.xml" />
       </list>
     </option>
   </component>
